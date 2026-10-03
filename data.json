@@ -372,7 +372,7 @@
      "box": 1120,
      "boxQty": 4,
      "madeira": true,
-     "encomenda": false,
+     "encomenda": true,
      "featured": false,
      "img": "b_image39",
      "ar": 0.244
@@ -896,6 +896,21 @@
      "featured": false,
      "img": "b_image82",
      "ar": 0.248
+    },
+    {
+     "id": "wmuspm5r53864",
+     "name": "Las Perdices Chac Chac",
+     "grape": "Cabernet Franc",
+     "type": "tinto",
+     "flag": "ar",
+     "unit": 80,
+     "box": 480,
+     "boxQty": 6,
+     "madeira": false,
+     "encomenda": false,
+     "featured": false,
+     "img": null,
+     "ar": 0.3
     }
    ]
   },
